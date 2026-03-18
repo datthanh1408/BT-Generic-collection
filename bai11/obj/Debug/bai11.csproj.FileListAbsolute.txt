@@ -1,7 +1,0 @@
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\bin\Debug\bai11.exe.config
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\bin\Debug\bai11.exe
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\bin\Debug\bai11.pdb
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\obj\Debug\bai11.csproj.AssemblyReference.cache
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\obj\Debug\bai11.csproj.CoreCompileInputs.cache
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\obj\Debug\bai11.exe
-C:\Users\Vo Van Thanh Dat\source\repos\bai11\obj\Debug\bai11.pdb
