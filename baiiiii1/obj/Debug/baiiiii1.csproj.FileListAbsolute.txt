@@ -1,0 +1,7 @@
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\bin\Debug\baiiiii1.exe.config
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\bin\Debug\baiiiii1.exe
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\bin\Debug\baiiiii1.pdb
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\obj\Debug\baiiiii1.csproj.AssemblyReference.cache
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\obj\Debug\baiiiii1.csproj.CoreCompileInputs.cache
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\obj\Debug\baiiiii1.exe
+C:\Users\Vo Van Thanh Dat\source\repos\baiiiii1\obj\Debug\baiiiii1.pdb
